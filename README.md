@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on JS projects
 - 🤔 I’m looking for help with IA
 - 💬 Ask me about JS
-- 📫 How to reach me: twitter @suissola
+- 📫 How to reach me: osuissinha@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: tenho tatuado nos dedos LOVE CATS
 
