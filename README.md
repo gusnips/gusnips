@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on WhatsApp integrations
-- 🌱 I’m currently learning IA
+- 🔭 I’m currently working on AI bots
+- 🌱 I’m currently learning Python/AI
 - 👯 I’m looking to collaborate on JS/Python projects
 - 🤔 I’m looking for help with IA
 - 💬 Ask me about JS
