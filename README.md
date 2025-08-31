@@ -6,11 +6,10 @@
 Here are some ideas to get you started:
 
 -->
-- 🔭 I’m currently working on AI bots
-- 🌱 I’m currently learning Python/AI
-- 👯 I’m looking to collaborate on JS/Python projects
-- 🤔 I’m looking for help with IA
-- 💬 Ask me about JS
+- 🔭 I’m currently working ON Multi-Agent Deep Ensemble Reinforcement Distributed Learning Systems 
+- 🌱 I’m currently learning MARL/DLR
+- 👯 I’m looking to collaborate on TS/AI projects
+- 💬 Ask me about JS/TS/NoSQL
 - 📫 How to reach me: osuissinha@gmail.com
 - 😄 Pronouns: ele/dele
 - ⚡ Fun fact: tenho tatuado nos dedos LOVE CATS
