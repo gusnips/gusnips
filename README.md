@@ -1,11 +1,4 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=header"/>
-</p>
-
-<h3 align="center">Hi dear, My name is</h3>
-
----
+<h3 align="center">Hi dear, My name is Suissa</h3>
 
 ### 💻 Suissa's GitHub Stats
 
@@ -14,11 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suissa&layout=compact&theme=radical&hide_border=true" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=footer"/>
-</p>
 
 - 🔭 I’m currently working ON Multi-Agent Deep Ensemble Reinforcement Distributed Learning Systems 
 - 🌱 I’m currently learning MARL/DLR
