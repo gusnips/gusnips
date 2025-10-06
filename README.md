@@ -1,6 +1,5 @@
-<h3 align="center">Hi dear, My name is Suissa</h3>
+<h3 align="center"> 💻 Helloooo there, my name is Suissa</h3>
 
-### 💻 Suissa's GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=suissa&theme=radical&show_icons=true&hide_border=true" />
