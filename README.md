@@ -1,11 +1,25 @@
-### Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=header"/>
+</p>
 
-<!--
-**suissa/suissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Hi dear, My name is</h3>
 
-Here are some ideas to get you started:
+---
 
--->
+### 💻 Caio Borges Sella's GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CAIOZIn1&theme=radical&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAIOZIn1&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=red&height=150&section=footer"/>
+</p>
+
 - 🔭 I’m currently working ON Multi-Agent Deep Ensemble Reinforcement Distributed Learning Systems 
 - 🌱 I’m currently learning MARL/DLR
 - 👯 I’m looking to collaborate on TS/AI projects
