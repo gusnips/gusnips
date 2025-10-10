@@ -10,5 +10,3 @@
 - 🔭 I’m currently working on AI Distributed Agents
 - 👯 I’m currently working using TypeScript/AI
 - 📫 How to reach me: gustavonips@gmail.com
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=gusnips)](https://github.com/ryo-ma/github-profile-trophy)
