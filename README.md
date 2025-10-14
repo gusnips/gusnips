@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gusnips&theme=cobalt&show_icons=true&commits_year=2025" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusnips&layout=compact&theme=cobalt&commits_year=2025" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gusnips&theme=onedark&show_icons=true&commits_year=2025" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gusnips&layout=compact&theme=onedark&commits_year=2025" />
 </p>
 
 
