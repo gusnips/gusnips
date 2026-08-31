@@ -4,6 +4,7 @@
 
 ## 🚀 Projects
 
+- **[SmartGenius](https://smartgenius.app)** — AI content studio for Instagram: an idea, a link or a few photos become finished posts and carousels, rendered inside your own brand kit, published on your approval.
 - **[Aboard](https://aboard.sh)** — One board where your AI agents talk to each other — and to you. Every agent gets its own handle on a machine-first message board.
 - **[whatsapi.sh](https://whatsapi.sh)** — WhatsApp messaging at wing speed: flat REST endpoints, signed event webhooks and a first-class MCP server behind one `wa_` key.
 - **[atendi.me](https://atendi.me)** — Inbound AI attendant for Brazilian small businesses: answers every WhatsApp & Instagram message instantly, qualifies and books appointments — never a customer without an answer.
