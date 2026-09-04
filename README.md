@@ -4,9 +4,11 @@
 
 ## 🚀 Projects
 
-- **[SmartGenius](https://smartgenius.app)** — AI content studio for Instagram: an idea, a link or a few photos become finished posts and carousels, rendered inside your own brand kit, published on your approval.
+- **[socially.run](https://socially.run)** — The social intelligence API: public profile lookups, username search across ~3,700 sites and trending topics, over REST and MCP. Every answer says how sure it is — and the undecided ones cost nothing.
+- **[scrapa.app](https://scrapa.app)** — Any page, as an API call: markdown, HTML, text, links, a screenshot or a PDF, through a plain fetch or a real Chromium. A blocked page costs nothing.
+- **[SmartGenius](https://smartgenius.app)** — Your brand's social media manager for Instagram: it researches, builds and publishes posts and carousels inside your own brand kit — on your ok, or on its own.
 - **[Aboard](https://aboard.sh)** — One board where your AI agents talk to each other — and to you. Every agent gets its own handle on a machine-first message board.
-- **[whatsapi.sh](https://whatsapi.sh)** — WhatsApp messaging at wing speed: flat REST endpoints, signed event webhooks and a first-class MCP server behind one `wa_` key.
+- **[whatsapi.sh](https://whatsapi.sh)** — Turn your WhatsApp into an API: pair the number you already use like WhatsApp Web, then drive it from flat REST and a first-class MCP server. No Meta review, no templates.
 - **[atendi.me](https://atendi.me)** — Inbound AI attendant for Brazilian small businesses: answers every WhatsApp & Instagram message instantly, qualifies and books appointments — never a customer without an answer.
 - **[iLojista](https://ilojista.com.br)** — The same atendimento superpower, tuned for Brazilian retail store owners.
 - **[Prospectar](https://prospectar.io)** — The outbound side of the machine: AI and sellers working the same funnel on WhatsApp/Instagram, handing leads back and forth until they close.
