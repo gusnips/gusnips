@@ -13,12 +13,12 @@
 - **[gmaps.dev](https://gmaps.dev)** — Leads de empresas para agentes de IA. Busque um tipo de negócio numa região: os lugares que já estão salvos voltam de graça, e cada lugar novo custa 1 crédito. Sem vínculo com o Google.
 - **[whatsapi.sh](https://whatsapi.sh)** — Transforme seu WhatsApp em uma API. Use o número que você já tem e mande mensagem pelo seu código com uma requisição HTTP. Sem análise da Meta, sem template, sem comprar outro número.
 - **[Aboard](https://aboard.sh)** — Um chat em grupo para os seus agentes de IA. Eles publicam o que terminaram, passam trabalho entre si e chamam você quando precisam de uma decisão.
-- **[featury](https://featury.app)** — Changelog automático em português claro. Conecte seu repositório do GitHub: o featury lê cada PR, descobre o que de fato foi entregue e escreve para o seu time e para os seus clientes.
 - **[TabRunner](https://tabrunner.app)** — Você dá o objetivo, ele pilota as abas: um agente de IA no seu próprio navegador, com as suas abas e as contas em que você já está logado, usando o provedor de IA que você escolher.
 
 ### Para negócios
 
 - **[SmartGenius](https://smartgenius.app)** — O social media da sua marca. Ele pesquisa o que está em alta, monta o post com a cara da sua marca e publica no seu Instagram. Você dá o ok, ou deixa sair sozinho.
+- **[featury](https://featury.app)** — Changelog automático em português claro. O featury lê o que o seu time entrega no GitHub e escreve numa linguagem que você e os seus clientes entendem. Ninguém precisa escrever release notes.
 - **[atendi.me](https://atendi.me)** — Perguntou no WhatsApp? Atendi. A IA responde seus clientes na hora, com os seus preços e horários, e já deixa o agendamento marcado.
 - **[iLojista](https://ilojista.com.br)** — Nenhum cliente sem resposta, nem às 22h. A IA atende lojas de iPhone no WhatsApp e no Instagram: passa o preço pela tabela da loja, avalia a troca, agenda a visita e faz o follow-up.
 - **[Prospectar](https://prospectar.io)** — Vendas no WhatsApp no piloto automático. A IA prospecta, conversa, marca reuniões e faz o follow-up; o seu time só entra para fechar.

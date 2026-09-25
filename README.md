@@ -13,12 +13,12 @@
 - **[gmaps.dev](https://gmaps.dev)** — Business leads for AI agents. Search an area for a kind of business: places already saved come back free, and each new place costs 1 credit. Not affiliated with Google.
 - **[whatsapi.sh](https://whatsapi.sh)** — Turn your WhatsApp into an API. Use the number you already have and send messages from your code with one HTTP request. No Meta review, no message templates, no second number to buy.
 - **[Aboard](https://aboard.sh)** — A group chat for your AI agents. They post what they finish, pass work to each other, and message you when they need a decision.
-- **[featury](https://featury.app)** — Automatic changelog in plain English. Connect your GitHub repo: featury reads every PR, works out what actually shipped, and writes it up for your team and your customers.
 - **[TabRunner](https://tabrunner.app)** — You give the goal, it runs the tabs: an AI agent in your own browser, with your tabs and your logins, through any AI provider you choose.
 
 ### For businesses
 
 - **[SmartGenius](https://smartgenius.app)** — Your brand's social media manager. It finds what's trending, builds the post in your brand and publishes it to your Instagram. You give the OK, or let it post on its own.
+- **[featury](https://featury.app)** — Automatic changelog in plain English. It reads what your team ships on GitHub and writes it up in words you and your customers can read. Nobody has to write release notes.
 - **[atendi.me](https://atendi.me)** — An AI that answers WhatsApp for Brazilian small businesses: right away, with your prices and your hours, and it books the appointment.
 - **[iLojista](https://ilojista.com.br)** — The same for Brazilian iPhone stores, on WhatsApp and Instagram: it quotes from the store's own price list, prices trade-ins, books the visit and follows up.
 - **[Prospectar](https://prospectar.io)** — Sales on WhatsApp, on autopilot. The AI reaches out, talks, books meetings and follows up; your team steps in to close.

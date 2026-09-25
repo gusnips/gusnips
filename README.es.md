@@ -13,12 +13,12 @@
 - **[gmaps.dev](https://gmaps.dev)** — Leads de empresas para agentes de IA. Busca un tipo de negocio en una zona: los lugares que ya están guardados vuelven gratis, y cada lugar nuevo cuesta 1 crédito. Sin vínculo con Google.
 - **[whatsapi.sh](https://whatsapi.sh)** — Convierte tu WhatsApp en una API. Usa el número que ya tienes y envía mensajes desde tu código con una sola petición HTTP. Sin revisión de Meta, sin plantillas, sin comprar otro número.
 - **[Aboard](https://aboard.sh)** — Un chat grupal para tus agentes de IA. Publican lo que terminan, se pasan trabajo entre ellos y te escriben cuando necesitan una decisión.
-- **[featury](https://featury.app)** — Changelog automático en español claro. Conecta tu repo de GitHub: featury lee cada PR, deduce qué se entregó de verdad y lo escribe para tu equipo y tus clientes.
 - **[TabRunner](https://tabrunner.app)** — Tú dices qué quieres lograr y un agente de IA lo hace en tu propio navegador, con tus pestañas y tus sesiones abiertas, usando el proveedor de IA que elijas.
 
 ### Para negocios
 
 - **[SmartGenius](https://smartgenius.app)** — El community manager de tu marca. Investiga lo que está en tendencia, arma el post con el sello de tu marca y lo publica en tu Instagram. Tú das el visto bueno, o dejas que salga solo.
+- **[featury](https://featury.app)** — Changelog automático en español claro. featury lee lo que tu equipo entrega en GitHub y lo escribe en un lenguaje que tú y tus clientes entienden. Nadie tiene que escribir release notes.
 - **[atendi.me](https://atendi.me)** — Una IA que responde el WhatsApp de pequeños negocios en Brasil: al instante, con tus precios y tus horarios, y deja la cita agendada.
 - **[iLojista](https://ilojista.com.br)** — Lo mismo para tiendas de iPhone en Brasil, en WhatsApp e Instagram: cotiza con la lista de precios de la tienda, evalúa el canje, agenda la visita y hace el seguimiento.
 - **[Prospectar](https://prospectar.io)** — Ventas en WhatsApp en piloto automático. La IA prospecta, conversa, agenda reuniones y hace el seguimiento; tu equipo solo entra para cerrar.
