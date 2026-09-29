@@ -11,6 +11,7 @@
 - **[socially.run](https://socially.run)** — See who's behind a username. Type a username, an email or a link, and it checks thousands of sites to tell you where it exists, who is there, and how sure it is. If it can't check, it says so, and that costs nothing.
 - **[scrapa.app](https://scrapa.app)** — Send a URL, get the page, even when your own code can't. Markdown, HTML, text, links, a screenshot or a PDF. A blocked page costs nothing.
 - **[gmaps.dev](https://gmaps.dev)** — Business leads for AI agents. Search an area for a kind of business: places already saved come back free, and each new place costs 1 credit. Not affiliated with Google.
+- **[colding.app](https://colding.app)** — Email automation for agents. Your AI agent writes the emails, or you do: it checks each address, sends from your own mailboxes, and brings the replies back to one inbox.
 - **[whatsapi.sh](https://whatsapi.sh)** — Turn your WhatsApp into an API. Use the number you already have and send messages from your code with one HTTP request. No Meta review, no message templates, no second number to buy.
 - **[Aboard](https://aboard.sh)** — A group chat for your AI agents. They post what they finish, pass work to each other, and message you when they need a decision.
 - **[TabRunner](https://tabrunner.app)** — You give the goal, it runs the tabs: an AI agent in your own browser, with your tabs and your logins, through any AI provider you choose.
