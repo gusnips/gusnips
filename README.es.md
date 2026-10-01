@@ -1,10 +1,10 @@
 <p align="center"><sub><a href="https://github.com/gusnips">English</a> · <a href="https://github.com/gusnips/gusnips/blob/main/README.pt-BR.md">Português</a> · Español</sub></p>
 
-<h3 align="center"> 💻 Holaaa, soy Gus</h3>
+<h3 align="center">Hola, soy Gus</h3>
 
-<p align="center">Me gusta resolver problemas y crear cosas geniales.<br/>Paso la mayor parte de mis días creando productos con IA.</p>
+<p align="center">Resuelvo problemas y construyo cosas.<br/>Hoy, casi siempre son productos con IA.</p>
 
-## 🚀 Proyectos
+## Lo que construyo
 
 ### Para desarrolladores y agentes de IA
 
@@ -33,7 +33,7 @@
 
 Casi todos nacen en **[OpenWings](https://openwings.com.br)**, mi estudio de ingeniería.
 
-## 📦 Código abierto
+## Código abierto
 
 - **[@falai/agent](https://falai.dev)** — Conversaciones tipadas en las que el código sigue al mando. Defines flujos, pasos y herramientas en TypeScript; la IA solo entra para entender lo que escribió el cliente y redactar la respuesta.
 - **[providerkit](https://providerkit.dev)** — Una sola interfaz en TypeScript para cualquier proveedor de LLM, con el manejo de errores que solo se aprende en producción: reintentos, modelo de respaldo, streams que se quedan colgados.
@@ -47,6 +47,6 @@ Casi todos nacen en **[OpenWings](https://openwings.com.br)**, mi estudio de ing
 - **[@gusnips/br](https://www.npmjs.com/package/@gusnips/br)** — CPF, CNPJ (también el nuevo alfanumérico), teléfonos y CEP (código postal) de Brasil en TypeScript: dígito verificador, formato y máscaras de entrada.
 - **[municipios-brasil](https://www.npmjs.com/package/municipios-brasil)** — Todos los estados, ciudades y capitales de Brasil en TypeScript, con búsqueda y geolocalización.
 
-## 📫 Contacto
+## Escríbeme
 
 [gustavonips@gmail.com](mailto:gustavonips@gmail.com) · [github.com/gusnips](https://github.com/gusnips) · [LinkedIn](https://br.linkedin.com/in/gusnips)
