@@ -37,6 +37,7 @@ Most of these come out of **[OpenWings](https://openwings.com.br)**, my engineer
 
 - **[@falai/agent](https://falai.dev)** — Typed conversations where the code stays in charge. You define flows, steps and tools in TypeScript; the AI is called only to understand the customer and write the reply.
 - **[providerkit](https://providerkit.dev)** — One TypeScript interface for every LLM provider, plus the error handling you only learn in production: retries, backup models, streams that stall.
+- **[cc-proxy](https://github.com/gusnips/cc-proxy)** — Use Claude Code with your OpenAI Codex, Kimi, Grok, OpenCode Go or Cursor Agent subscription. One local proxy handles sign-in, routing and streaming, and a built-in monitor shows sessions, errors and token use. A fork of claude-code-proxy.
 - **[frontkit](https://github.com/gusnips/frontkit)** — The shared base of my React apps: the fetch client, sign-in state, route guards, design tokens and the prerender build. Not a component library.
 - **[serverkit](https://github.com/gusnips/serverkit)** — The shared base of my TypeScript backends: plain SQL migrations for Postgres, and one shape for every response and error.
 - **[evolution-api-sdk](https://www.npmjs.com/package/evolution-api-sdk)** — Unofficial TypeScript SDK for the Evolution WhatsApp API v2.
