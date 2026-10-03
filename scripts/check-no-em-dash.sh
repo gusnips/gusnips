@@ -1,8 +1,15 @@
 #!/bin/sh
-# No em dash in the READMEs people read. An em dash gives away AI-written text.
-# Use a period, comma, colon or parentheses.
-if grep -n "$(printf '\342\200\224')" README*.md; then
-    echo "Em dash found. Use a period, comma, colon or parentheses." >&2
+set -eu
+# Check both the character and HTML entities that render it on GitHub.
+pattern="$(printf '\342\200\224')|&mdash;|&#(0*8212|[xX]0*2014);"
+status=0
+matches=$(grep -nE "$pattern" README*.md) || status=$?
+if [ "$status" -eq 0 ]; then
+    printf '%s\n' "$matches" >&2
+    printf '%s\n' "Em dash found. Use a period, comma, colon or parentheses." >&2
     exit 1
 fi
-echo "no em dash in README files"
+if [ "$status" -ne 1 ]; then
+    exit "$status"
+fi
+printf '%s\n' "No em dash in README files."
